@@ -1,5 +1,5 @@
-# 🏦 Bank Management System
- Bank Managemant System (Java | JFrames | IntelliJ IDE | MySQL DB | Swing Technologies | Classes and
+# GUI Interface
+ Bank Operations (Java | JFrames | IntelliJ IDE | MySQL DB | Swing Technologies | Classes and
 Frames ) - Bank Management System 🏦 (Java Swing + MySQL)
 
 A complete **GUI-Based Bank Management System** built using **Java Swing (JFrames), AWT, MySQL, JDBC**, and follows a structured multi-frame architecture similar to real ATM applications.
