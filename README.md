@@ -1,4 +1,4 @@
-# GUI Interface
+# GUI Interface Project
  Bank Operations (Java | JFrames | IntelliJ IDE | MySQL DB | Swing Technologies | Classes and
 Frames ) - Bank Management System 🏦 (Java Swing + MySQL)
 
